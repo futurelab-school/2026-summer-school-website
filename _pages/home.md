@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "2025 Future Labs Summer School"
+title: "2026 Future Labs Summer School"
 permalink: /home/
 
 header:
@@ -14,8 +14,8 @@ header:
 excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
 
 intro: 
-  # - title: 'Join us at the Lawrence Berkeley National Lab, CA, from August 13-15 for activities and workshops for applying machine learning to material science'
-  - title: "Thank you for joining us at the LBNL User meeting! Hope to see you next year at the 2026 Annual User meeting for next year's summer school!"
+  - title: 'Join us at the Lawrence Berkeley National Lab, CA, from July 27-29 for activities and workshops for applying machine learning to material science'
+  # - title: "Thank you for joining us at the LBNL User meeting! Hope to see you next year at the 2026 Annual User meeting for next year's summer school!"
 
 feature_schedule:
   - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
