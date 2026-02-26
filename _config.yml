@@ -1,0 +1,119 @@
+# ---------------------------------
+# Site Information
+# ---------------------------------
+title: "2025 ML Summer School"
+description: >
+  Website for the 2025 Future Labs Summer School on machine learning and automation.
+twitter_username: uwsunlab
+github_username: uwsunlab
+logo: "/assets/images/uwsunlab_logo.png"
+minimal_mistakes_skin: "default"
+locale: "en-US"
+title_separator: "-"
+url: "https://futurelab-school.github.io"
+baseurl: "/2025Summer"
+repository: "2025Summer"
+
+# ---------------------------------
+# Build Settings
+# ---------------------------------
+markdown: kramdown
+kramdown:
+  input: GFM
+
+theme: null  # using local override of Minimal Mistakes
+
+include:
+  - _pages
+  - assets/images
+
+# ---------------------------------
+# Custom Styling
+# ---------------------------------
+custom_css:
+  - /assets/css/custom.css
+
+# ---------------------------------
+# Plugins
+# ---------------------------------
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-redirect-from
+
+# ---------------------------------
+# Permalinks & Pagination
+# ---------------------------------
+permalink: /:categories/:title/
+paginate_path: /_pages/page:num
+# paginate: 10  # Uncomment if pagination is needed
+timezone:  # e.g., "America/Los_Angeles"
+
+# ---------------------------------
+# Author Information
+# ---------------------------------
+author:
+  name   : "Univ. Wash"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+
+# ---------------------------------
+# Footer Links
+# ---------------------------------
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+
+# ---------------------------------
+# Defaults
+# ---------------------------------
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+
+# ---------------------------------
+# Archives
+# ---------------------------------
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# ---------------------------------
+# HTML Compression
+# ---------------------------------
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
