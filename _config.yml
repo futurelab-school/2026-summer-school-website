@@ -12,7 +12,7 @@ locale: "en-US"
 title_separator: "-"
 url: "https://futurelab-school.github.io"
 baseurl: "/2026-summer-school-website"
-repository: "futurelab-school/2026-summer-school-website"
+repository: "2026-summer-school-website"
 
 # ---------------------------------
 # Build Settings
