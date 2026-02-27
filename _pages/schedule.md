@@ -38,14 +38,14 @@ layout: single
 | 9:30   | **Intro Using Google Colab & ChatGPT Guided Coding** *(Clara Tamura)* <br>• Bring your own data <br>• Convert code into Colab notebooks<br>• Connect to data sources <br>• Prepare data for ML & score generation |
 | 10:00  | **Extracting machine-readable metrics for thin films I** *(Shuan Cheng)*  <br> |
 | 10:30  | Break |
-| 11:00  | **Extracting machine-readable metrics for thin films II** *(Shuan Cheng, Thong Nguyen)*<br>• UV-Vis Metric<br>• PL Metrics <br>• PL Image Metric |
+| 11:00  | **Extracting machine-readable metrics for thin films II** *(Shuan Cheng)*<br>• UV-Vis Metric<br>• PL Metrics <br>• PL Image Metric |
 | 12:00  | **Lunch Break** |
 | 13:00   | **Getting Started with Machine Learning** *(Maher Alghalayini)*  <br>• Overview of Machine Learning: Key concepts and types of learning |
 | 13:15   | **Basics of Gaussian Process Surrogate Models** *(Maher Alghalayini)* <br>• Introduction to Gaussian processes|
 | 14:00   | **Practical code implementation of Gaussian processes** *(Maher Alghalayini)*|
 | 14:30   | Break |
-| 15:00   | **Bayesian Optimization** *(Clara Tamura)*|
-| 16:00   | **Building an active learning algorithm** *(Clara Tamura)*|
+| 15:00   | **Bayesian Optimization**|
+| 16:00   | **Building an active learning algorithm**|
 | 17:30   | Wrap Up Day 2
 
 ---
