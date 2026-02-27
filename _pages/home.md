@@ -81,7 +81,7 @@ portrait_experiment:
 
 
 portrait_data: 
-   - image_path: assets/images/Yuanyuan.png
+   - image_path: assets/images/Yuanyuan.jpg
      name: "Yuanyuan Zhou"
      affiliation: "The Hong Kong University of Science and Technology"
      excerpt: "Associate Professor"
@@ -164,8 +164,8 @@ All coding activities will have ChatGPT-assisted coding, so no Python or coding 
 
 <!-- {% include feature_row id="feature_row4" type="center" %}  -->
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://www.uwsunlab.com/papers" class="btn btn--primary">Read More @ UWSunLab</a>
-  <a href="https://sutterfellalab.lbl.gov/publications/" class="btn btn--primary">Read More @ SutterFellaLab</a>
+  <a href="https://camsunlab.com/papers" class="btn btn--primary">Read More @ SunLab@Cambridge</a>
+  <a href="https://sutterfellalab.lbl.gov/publications/" class="btn btn--primary">Read More @ Carolin M. Sutter-Fella Lab</a>
 </div>
 <!-- One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
 
