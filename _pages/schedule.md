@@ -7,7 +7,7 @@ layout: single
 
 ## Day 1: Human vs Robot
 
-| Time   | Activity (@ Molecular Foundry, Building 67, Room 3111)      |
+| Time   | Activity (@ Molecular Foundry, Building 67, Room TBD)      |
 |--------|--------------------------------------------------------------------------|
 | 8:30   | Badge Pick Up                          |
 | 9:00   | Welcome to Day 1 *Speaker: Carolin Sutter-Fella & Shijing Sun*  |
