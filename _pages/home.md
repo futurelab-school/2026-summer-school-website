@@ -97,7 +97,7 @@ portrait_data:
      name: "Shuan Cheng"
      affiliation: "Univeristy of Washington" 
      excerpt: "PhD Student"
-   - image_path: /assets/images/IMG_1438.webp
+   - image_path: /assets/images/hemanth_uw.jpg
      name: "Hemanth Neelgund Ramesh"
      affiliation: "Univeristy of Washington"
      excerpt: "PhD Student"
@@ -117,6 +117,17 @@ invited_speaker1:
   - image_path: /assets/images/TonioBuonassisi.jpg
     title: Tonio Buonassisi, Massachusetts Institute of Technology
     excerpt: Tonio Buonassisi is a Professor of Mechanical Engineering at the Massachusetts Institute of Technology (MIT). He is pioneering the application of artificial intelligence to develop new materials for societally beneficial applications. His research in solar photovoltaics and technoeconomic analysis assisted technology developments in dozens of companies, earning him a US Presidential Early Career Award for Scientists and Engineers (PECASE), a National Science Foundation CAREER Award, and a Google Faculty Award. He directs the ADDEPT Center, a DOE-funded national center devoted to making semi-transparent perovskite solar cells *durable* for terrestrial tandems. He is PI of the Accelerated Materials Lab for Sustainability (AMLS) at MIT, and served as founding director for the Accelerated Materials Development for Manufacturing Programme in Singapore. A recipient of the MIT Everett Moore Baker Memorial Award for Excellence in Undergraduate Teaching, his passion for education is evidenced by the ~1M views of his OpenCourseware/YouTube PV lectures series.
+
+invited_speaker2: 
+  - image_path: assets/images/placeholder-image-person-jpg.jpg
+    title: Speaker 2, Institute 2
+    excerpt: Lorem Ipsum
+    
+invited_speaker3: 
+  - image_path: assets/images/placeholder-image-person-jpg.jpg
+    title: Speaker 3, Institute 3
+    excerpt: Lorem Ipsum
+
 
 map: 
   - image_path: /assets/images/LBNL logistics.png
@@ -142,7 +153,7 @@ Comming Soon...
 
 
 ## Who is eligible to register for the summer course?
-- Professionals,  Postdocs,  Graduate Students,  Undergraduate Students.
+Professionals,  Postdocs,  Graduate Students,  Undergraduate Students.
 
 All coding activities will have ChatGPT-assisted coding, so no Python or coding mastery is required.
 
