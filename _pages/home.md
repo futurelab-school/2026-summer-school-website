@@ -48,39 +48,43 @@ portrait_1:
   - title: ""
   - image_path: /assets/images/shijing-sun.jpeg
     name: "Shijing Sun"
-    affiliation: "Univeristy of Washington"
-    excerpt: "Assistant Professor"
+    affiliation: "University of Cambridge"
+    excerpt: "Associate Professor"
   - title: ""
   - image_path: /assets/images/carolin_sutterfella.png
     name: "Carolin M. Sutter-Fella"
-    affiliation: "Molecular Foundry" 
+    affiliation: "Lawrence Berkeley National Lab" 
     excerpt: "Staff Scientist"
   - title: ""
 
 portrait_experiment:  
-   - image_path: /assets/images/ansuman.png
-     name: "Ansuman Halder"
-     affiliation: "Molecular Foundry"
-     excerpt: "Postdoc"
-   - image_path: /assets/images/abby_hering.png
-     name: "Abby Hering"
-     affiliation: "UC Davis" 
-     excerpt: "PhD Student"
-   - image_path: assets/images/rapha_moral.png
-     name: "Rapha Moral"
-     affiliation: "Molecular Foundry" 
-     excerpt: "Postdoc"
+   - image_path: /assets/images/Aldair Gongora - gongora1_0179.jpg
+     name: "Aldair Ernesto Gongora"
+     affiliation: "Lawrence Berkeley National Lab"
+     excerpt: "Staff Scientist"
+   - image_path: /assets/images/steph.jpeg
+     name: "Stephanie Ribet"
+     affiliation: "Lawrence Berkeley National Lab" 
+     excerpt: "Staff Scientist"
+   - image_path: assets/images/peter.jpeg
+     name: "Peter Ercius"
+     affiliation: "Lawrence Berkeley National Lab" 
+     excerpt: "Staff Scientist"
    - image_path: assets/images/yiru_liu.jpeg
      name: "Yi-Ru Liu"
-     affiliation: "Molecular Foundry" 
+     affiliation: "Lawrence Berkeley National Lab" 
      excerpt: "PhD Student"
    - image_path: assets/images/ed_bernard.jpg
      name: "Ed Bernard"
-     affiliation: "Molecular Foundry" 
+     affiliation: "Lawrence Berkeley National Lab" 
      excerpt: "Staff Scientist"
 
 
 portrait_data: 
+   - image_path: assets/images/Yuanyuan.png
+     name: "Yuanyuan Zhou"
+     affiliation: "The Hong Kong University of Science and Technology"
+     excerpt: "Associate Professor"
    - image_path: assets/images/maher.png
      name: "Maher Alghalayini"
      affiliation: "Molecular Foundry"
@@ -93,14 +97,10 @@ portrait_data:
      name: "Shuan Cheng"
      affiliation: "Univeristy of Washington" 
      excerpt: "PhD Student"
-   - image_path: /assets/images/clara_tamura.png
-     name: "Clara Tamura"
+   - image_path: /assets/images/IMG_1438.webp
+     name: "Hemanth Neelgund Ramesh"
      affiliation: "Univeristy of Washington"
      excerpt: "PhD Student"
-   - image_path: /assets/images/thong_nguyen.png
-     name : "Thong Nguyen" 
-     affiliation: "University of Washington" 
-     excerpt: "Undergraduate Student" 
 
 feature_row4:
   - # image_path: /assets/images/lawrence.png
