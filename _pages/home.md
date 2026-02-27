@@ -97,7 +97,7 @@ portrait_data:
      name: "Shuan Cheng"
      affiliation: "Univeristy of Washington" 
      excerpt: "PhD Student"
-   - image_path: /assets/images/hemanth_uw.jpg
+   - image_path: assets/images/hemanth_uw.JPG
      name: "Hemanth Neelgund Ramesh"
      affiliation: "Univeristy of Washington"
      excerpt: "PhD Student"
@@ -161,6 +161,8 @@ All coding activities will have ChatGPT-assisted coding, so no Python or coding 
 
 ## Invited Speakers
 {% include feature_row id = "invited_speaker1"   type="left"%}
+{% include feature_row id = "invited_speaker2"   type="left"%}
+{% include feature_row id = "invited_speaker3"   type="left"%}
 
 <!-- ## "Readings from our Hosts"
 #  'Learn more through some of the publications from our host!' -->
