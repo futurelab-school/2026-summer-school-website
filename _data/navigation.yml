@@ -5,18 +5,17 @@ main:
   - title: "Schedule"
     url: /schedule/
     enabled: true
-  - title: "About" # Location
+  - title: "About"
     url: /about/
     enabled: true
   - title: "School"
     url: /404/ #/school/ 
+    enabled: true
   - title: "Gallery"
     url: /gallery/
-    enabled: false
-  - title: "Previous Summer School"
     enabled: true
-    children:
-      - title: "2025"
-        url: /previous-summer-school/#y2025
+  - title: "Previous Summer School"
+    url: /previous-summer-school/
+    enabled: true
 
   
