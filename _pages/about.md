@@ -11,9 +11,9 @@ feature_row:
   - image_path: /assets/images/host_logos.png 
   - image_width: 100%
 
-# sponsors: 
-#   - image_path: assets/images/SCIPRIOS-icon.jpg
-#   - image_path: assets/images/Toyota_Research_Institute_Logo_Square.png
+sponsors: 
+  - image_path: assets/images/SCIPRIOS-icon.jpg
+  - image_path: assets/images/Toyota_Research_Institute_Logo_Square.png
 ---
 
 ## Scope:
@@ -25,14 +25,11 @@ feature_row:
 
 
 #  Sponsors: 
-{% include feature_row id="sponsors" type="center" %} 
+<!-- {% include feature_row id="sponsors" type="center" %}  -->
 Comming Soon...
 
 
 ## Hosted by:
 <!-- {% include feature_row type="center" %} -->
 {% include figure  image_path="/assets/images/host_logos.png"  alt="Host logos"  width="100%" class="align-center" %}
-
-
-
 

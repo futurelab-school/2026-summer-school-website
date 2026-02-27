@@ -11,7 +11,7 @@ header:
     - label: "Learn More"
       url: /home/#schedule
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
+excerpt: "Materials Science in the Era of Automation and AI/ML"
 
 intro: 
   - title: 'Join us at the Lawrence Berkeley National Lab, CA, from July 27-29 for activities and workshops for applying machine learning to material science'
@@ -114,15 +114,9 @@ feature_row4:
     btn_class: "btn--primary"
   
 invited_speaker1: 
-  - image_path: /assets/images/tanjinhe.jpeg
-    title: Tanjin He, Argonne Labs
-    excerpt: The explosive growth of AI/ML in materials science has largely been fueled by computational data which are abundant, diverse, and consistent. In contrast, training AI based on experimental data has been extremely challenging due to numerous fundamental challenges in obtaining, preparing, or sharing AI-ready data. The use of AI-ready data from both experimental and computational sources, as well as AI/ML workflows for experimental data interpretation, are essential for the development of autonomous laboratories. In this talk, we will discuss how we harness experimental multimodal data from scientific literature for spectroscopy informatics. By developing an agentic workflow that orchestrates different machine learning models, we automatically convert unstructured spectroscopy data from scientific figures and text into structured numerical data and metadata, which can serve as references for new spectroscopy experiments. This multimodal information retrieval approach lays the foundation for building large-scale experimental spectroscopy databases and developing spectral matching algorithms for autonomous materials characterization.
-  - image_path: /assets/images/luisbarroso.jpeg
-    title: Luis Barroso-Luque, Meta
-    excerpt: Recent advancements in machine learning (ML) potentials have significantly enhanced their accuracy and capability across various domains, such as catalysis, inorganic materials, and molecules. These achievements have been largely driven by the availability of extensive density functional theory (DFT) datasets. Over the past five years, the FAIR Chemistry team at Meta has developed and released some of the largest datasets in these areas. In this talk, I will present our latest work, which integrates these advancements into a single, unified model that sets or achieves near state-of-the-art accuracy across multiple materials science and chemistry benchmarks. By combining five of our datasets into the largest DFT training dataset to date, we have trained the Universal Model for Atoms (UMA), setting a new standard for universality and accuracy in interatomic potential modeling.Trained on approximately 500 billion atoms, the UMA marks a significant milestone towards a universal approach to modeling atomic interactions. Its innovative architecture, utilizing a mixture of linear experts, balances model capacity with inference speed. This work highlights the potential for a unified model to deliver exceptional performance across diverse domains, paving the way for more accurate and efficient simulations that can drive innovation in energy, environment, and healthcare.
-  - image_path: /assets/images/menjing.jpg
-    title: Mengying Liu, Washington and Lee University
-    excerpt: Quartz is one of the most commonly found materials on the earth’s surface and analyzing its crystal texture aids in tectonic movement detection and earthquake prediction. With its uniaxial optical anisotropic property, under a white polarized light, grains with different orientations in quartz reflect various color and intensity. Rotating thin section samples on a dark background while taking micrographs of surface under a polarized reflective light microscope, we can generate the light intensity and color reflected at each pixel. The periodically varied intensity and color can then be correlated to distinct grain’s c-axis orientation through a machine learning algorithm. This polarized reflective light microscopy particularly suitable for a larger field of view with numerous sub-millimeters size grains, offers a low-cost fast-screening option for rock texture analysis compared to Electron Backscatter Diffraction analysis.
+  - image_path: /assets/images/TonioBuonassisi.jpg
+    title: Tonio Buonassisi, Massachusetts Institute of Technology
+    excerpt: Tonio Buonassisi is a Professor of Mechanical Engineering at the Massachusetts Institute of Technology (MIT). He is pioneering the application of artificial intelligence to develop new materials for societally beneficial applications. His research in solar photovoltaics and technoeconomic analysis assisted technology developments in dozens of companies, earning him a US Presidential Early Career Award for Scientists and Engineers (PECASE), a National Science Foundation CAREER Award, and a Google Faculty Award. He directs the ADDEPT Center, a DOE-funded national center devoted to making semi-transparent perovskite solar cells *durable* for terrestrial tandems. He is PI of the Accelerated Materials Lab for Sustainability (AMLS) at MIT, and served as founding director for the Accelerated Materials Development for Manufacturing Programme in Singapore. A recipient of the MIT Everett Moore Baker Memorial Award for Excellence in Undergraduate Teaching, his passion for education is evidenced by the ~1M views of his OpenCourseware/YouTube PV lectures series.
 
 map: 
   - image_path: /assets/images/LBNL logistics.png
@@ -135,7 +129,7 @@ Robotics and AI are regarded as transformative tools for scientific discovery an
 
 We aim to foster the development of the future workforce in materials science, engineering, computer science, physics, and related fields, anticipating that science and research will increasingly integrate artificial intelligence and machine learning (AI/ML).
 
-The summer school is a 2.5 day event and open to all students and postdocs from interdisciplinary backgrounds. No prior coding experience is required. Participation in hands-on lab experiments is limited to selected participants due to space constraints.
+The summer school is a 3 day event and open to all students, postdocs, and professionals from interdisciplinary backgrounds. No prior coding experience is required.
 
 <br/>
 
@@ -143,16 +137,16 @@ The summer school is a 2.5 day event and open to all students and postdocs from 
 {% include feature_row id = "feature_schedule"%}
 
 ## Map
-{% include feature_row id = "map" type='center'%}
+<!-- {% include feature_row id = "map" type='center'%} -->
+Comming Soon...
 
 
 ## Who is eligible to register for the summer course?
-- Those registered for the 2025 Molecular Foundary Annual Meeting.
 - Professionals,  Postdocs,  Graduate Students,  Undergraduate Students.
 
 All coding activities will have ChatGPT-assisted coding, so no Python or coding mastery is required.
 
-{% include feature_row id = "feature_register" %}
+<!-- {% include feature_row id = "feature_register" %} -->
 
 ## Invited Speakers
 {% include feature_row id = "invited_speaker1"   type="left"%}
