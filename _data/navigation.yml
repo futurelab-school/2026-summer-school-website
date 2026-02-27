@@ -16,8 +16,7 @@ main:
   - title: "Previous Summer School"
     enabled: true
     children:
-      - title: "2025 Summer School"
-        url: https://futurelab-school.github.io/2025Summer/gallery/
+      - title: "2025"
+        url: /previous-summer-school/#y2025
 
   
-
