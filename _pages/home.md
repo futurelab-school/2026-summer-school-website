@@ -97,7 +97,7 @@ portrait_data:
      name: "Shuan Cheng"
      affiliation: "Univeristy of Washington" 
      excerpt: "PhD Student"
-   - image_path: assets/images/hemanth_uw.JPG
+   - image_path: assets/images/hemanth_uw.png
      name: "Hemanth Neelgund Ramesh"
      affiliation: "Univeristy of Washington"
      excerpt: "PhD Student"
