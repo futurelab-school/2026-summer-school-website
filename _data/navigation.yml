@@ -9,10 +9,12 @@ main:
     url: /about/
     enabled: true
   - title: "School"
-    url: /school/
+    url: /404/
+    # url: /school/
     enabled: true
   - title: "Gallery"
-    url: /gallery/
+    url: /404/
+    # url: /gallery/
     enabled: true
   - title: "Previous Summer School"
     url: /previous-summer-school/
