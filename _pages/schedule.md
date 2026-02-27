@@ -54,9 +54,9 @@ layout: single
 
 | Time   | Activity (Building and Room TBD)|
 |--------|----------|
-| 9:00   | **Building Hardware Tools for Autonomous Labs**                                   |
+| 9:00   | **Building Hardware Tools for Autonomous Labs**|
 | 10:15   | **Introduction to Neural Networks**|
-| 11:10   | **Introduction to Generative Models**|
+| 11:15   | **Introduction to Generative Models**|
 | 12:00   | Lunch Break |
 | 13:00   | *Prof. Shijing Sun – Invited* |
 | 13:30   |  *Prof. Yuanyuan Zhou – Invited* |

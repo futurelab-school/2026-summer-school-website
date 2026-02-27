@@ -30,14 +30,14 @@ feature_schedule:
     btn_label: "Day 2"
     btn_class: "btn--primary"
     excerpt: "Apply active learning algorithms for material optimization!"
-    url: /schedule/#day-2-molecular-foundry---open-to-all-user-meeting-attendees-tutorial
+    url: /schedule/#day-2-tutorials
         
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
     #title: "Day 3"
     excerpt: "Join leaders in the field for the AI/ML enabled Materials Development Symposium!"
     btn_label: "Day 3"
     btn_class: "btn--primary"
-    url: /schedule/#day-3-open-to-all-user-meeting-attendees-symposium
+    url: /schedule/#day-3-tutorials-and-symposium
 
 feature_register:
   - url: "https://usermeeting2025.foundry.lbl.gov/meeting-registration/"
@@ -87,13 +87,13 @@ portrait_data:
      excerpt: "Associate Professor"
    - image_path: assets/images/maher.png
      name: "Maher Alghalayini"
-     affiliation: "Molecular Foundry"
+     affiliation: "Lawrence Berkeley National Lab"
      excerpt: "Postdoc"
    - image_path: assets/images/Morgan.jpg
      name: "Morgan Wall"
-     affiliation: "Molecular Foundry" 
+     affiliation: "Lawrence Berkeley National Lab" 
      excerpt: "Computer Systems Engineer"
-   - image_path: /assets/images/shuan_cheng.png
+   - image_path: /assets/images/shuan_cheng.jpg
      name: "Shuan Cheng"
      affiliation: "Univeristy of Washington" 
      excerpt: "PhD Student"
