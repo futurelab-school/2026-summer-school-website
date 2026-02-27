@@ -31,6 +31,7 @@ layout: single
 
 
 ## Day 2: Tutorials
+
 | Time   | Activity (Building and Room TBD)|
 |--------|----------|
 | 9:00   | **Summary of day 1 & Perovskite Intro** *Speaker: Carolin Sutter-Fella* |
@@ -50,6 +51,7 @@ layout: single
 ---
 
 ## Day 3: Tutorials and Symposium
+
 | Time   | Activity (Building and Room TBD)|
 |--------|----------|
 | 9:00   | **Building Hardware Tools for Autonomous Labs**|
