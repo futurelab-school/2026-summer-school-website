@@ -121,12 +121,12 @@ invited_speaker1:
 invited_speaker2: 
   - image_path: assets/images/placeholder-image-person-jpg.jpg
     title: Speaker 2, Institute 2
-    excerpt: Lorem Ipsum
+    excerpt: Comming Soon...
     
 invited_speaker3: 
   - image_path: assets/images/placeholder-image-person-jpg.jpg
     title: Speaker 3, Institute 3
-    excerpt: Lorem Ipsum
+    excerpt: Comming Soon...
 
 
 map: 
