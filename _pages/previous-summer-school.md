@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "Previous Summer School"
 permalink: /previous-summer-school/
 ---
