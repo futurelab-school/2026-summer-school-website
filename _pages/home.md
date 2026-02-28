@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "2026 Future Labs Summer School"
+title: "2026 AI and Automation Summer School"
 permalink: /home/
 
 header:
@@ -14,7 +14,7 @@ header:
 excerpt: "Materials Science in the Era of Automation and AI/ML"
 
 intro: 
-  - title: 'Join us at the Lawrence Berkeley National Lab, CA, from July 27-29 for activities and workshops for applying machine learning to material science'
+  - title: 'Join us at the Lawrence Berkeley National Lab, CA, from July 27 ~ 29, 2026, for activities and workshops for applying machine learning to material science'
   # - title: "Thank you for joining us at the LBNL User meeting! Hope to see you next year at the 2026 Annual User meeting for next year's summer school!"
 
 feature_schedule:
